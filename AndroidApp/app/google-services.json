@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "623476023663",
+    "firebase_url": "https://collegeprofessionals-129bc.firebaseio.com",
+    "project_id": "collegeprofessionals-129bc",
+    "storage_bucket": "collegeprofessionals-129bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623476023663:android:aa5cfa66efb821a6",
+        "android_client_info": {
+          "package_name": "com.example.shivamvk.collegeprofessionals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623476023663-4u8e6r0cdv1t4pk6h2uno74erohksmo0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shivamvk.collegeprofessionals",
+            "certificate_hash": "235bd663aa8eae5d0c03c55cd40e2577b986bf9e"
+          }
+        },
+        {
+          "client_id": "623476023663-qfrqin86jc6ns08ja45tjq7nvtgrn7ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwO8GehHxocJUZbkBKOApsJQ1FQY8ZCfs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623476023663-qfrqin86jc6ns08ja45tjq7nvtgrn7ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
